@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`It renders component when the short description is filled in a product 1`] = `
+<div>
+  <div
+    class="root"
+  >
+    <div
+      class="section"
+    >
+      <div>
+        <p>
+          Lorem ipsum
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
